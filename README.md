@@ -1,7 +1,6 @@
 # 💫 About Me:
 # Hi, I'm Komal Rathod 👋<br><br>🎓 Computer Science Engineering Student  <br>💻 Interested in Full Stack Development and Backend Development  <br>🌱 Currently learning React, Node.js, Express.js, DSA, and System Design  <br>🛠️ Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MySQL, MongoDB, Java  <br>🚀 Projects: Library Management System and Web Development Projects  <br>📚 Practicing Data Structures, OOPs, and Problem Solving for Interviews  <br>🎯 Goal: Get a stable software job and continuously improve development skills<br><br>## Skills<br>- Frontend: HTML, CSS, JavaScript, React<br>- Backend: Node.js, Express.js<br>- Database: MySQL, MongoDB<br>- Programming: Java<br>- Tools: Git, GitHub, VS Code<br><br>## Connect With Me<br>- GitHub: your-github-link<br>- LinkedIn: your-linkedin-link
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/komal-rathod-91985a290/) 
 
